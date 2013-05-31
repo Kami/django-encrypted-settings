@@ -1,7 +1,7 @@
 # Django Encrypted Settings
 
 Thin wrapper around Python keyczar bindings which allows you to manage and use
-encrypted settings with your Django app.
+encrypted settings in your Django app.
 
 For more information on how Keyczar works and how to mange keys, visit
 the official website at http://www.keyczar.org/.
