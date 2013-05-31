@@ -6,6 +6,9 @@ encrypted settings with your Django app.
 For more information on how Keyczar works and how to mange keys, visit
 the official website at http://www.keyczar.org/.
 
+**Note: This application doesn't anything with the actual key storage. It's up
+to the user to securely store and manage the access to the secret keys.**
+
 ## Installation
 
 ```bash
